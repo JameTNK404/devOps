@@ -1,7 +1,7 @@
 name: Thinnakrit
-version: 1.0
-enabled: true
-tags:
-  - devops
-  - yaml
-  - config
+  version: 1.0
+  enabled: true
+  tags:
+    - devops
+    - yaml
+    - config
